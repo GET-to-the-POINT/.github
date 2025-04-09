@@ -14,6 +14,6 @@
 
 이 이야기는 너무나 슬픈 이야기를 쇼츠 제작 플랫폼, 유니캣을 이용해 만든 결과물 입니다.
 
-[![/코딩지옥](thumbnail.jpg)](https://youtube.com/shorts/Jt23LSCds-U?si=brEfFR9T4hz67d0I)
+[![코딩지옥](/thumbnail.jpg)](https://youtube.com/shorts/Jt23LSCds-U?si=brEfFR9T4hz67d0I)
 
 > 클릭시 유튜브로 넘어갑니다.
