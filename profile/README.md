@@ -14,4 +14,4 @@
 
 이 이야기는 너무나 슬픈 이야기를 쇼츠 제작 플랫폼, 유니캣을 이용해 만든 결과물 입니다.
 
-![코딩지옥](https://youtube.com/shorts/Jt23LSCds-U?si=0GhCWXFVRW7Pk-Qn)
+[코딩지옥](/coding-hell.mp4)
