@@ -23,12 +23,14 @@
             "id": "2f937fd883a94b30",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20250409151628.png"
+                "file": "profile/README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250409151628"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ],
@@ -105,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20250409151628.png",
+                "file": "profile/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Pasted image 20250409151628 의 백링크"
+              "title": "README 의 백링크"
             }
           },
           {
@@ -153,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20250409151628.png",
+                "file": "profile/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Pasted image 20250409151628 의 개요"
+              "title": "README 의 개요"
             }
           },
           {
@@ -201,12 +203,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8cc2974059bd6b02",
+  "active": "2f937fd883a94b30",
   "lastOpenFiles": [
     "데브캠프2기-파이널-돛단배-최종결과물_영상.mp4",
+    "Pasted image 20250409151628.png",
     "profile/README.md",
     "README.md",
-    "Pasted image 20250409151628.png",
     "Pasted image 20250409151538.png",
     "resources",
     "profile/resources/Pasted image 20250409151601.png",
