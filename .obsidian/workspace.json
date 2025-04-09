@@ -23,12 +23,14 @@
             "id": "2f937fd883a94b30",
             "type": "leaf",
             "state": {
-              "type": "video",
+              "type": "markdown",
               "state": {
-                "file": "coding-hell.mp4"
+                "file": "profile/README.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "coding-hell"
+              "title": "README"
             }
           }
         ],
@@ -105,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding-hell.mp4",
+                "file": "profile/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "coding-hell 의 백링크"
+              "title": "README 의 백링크"
             }
           },
           {
@@ -153,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding-hell.mp4",
+                "file": "profile/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "coding-hell 의 개요"
+              "title": "README 의 개요"
             }
           },
           {
@@ -201,10 +203,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8cc2974059bd6b02",
+  "active": "2f937fd883a94b30",
   "lastOpenFiles": [
-    "profile/README.md",
     "coding-hell.mp4",
+    "profile/README.md",
     "Pasted image 20250409151628.png",
     "README.md",
     "Pasted image 20250409151538.png",
