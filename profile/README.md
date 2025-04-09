@@ -1,12 +1,10 @@
-## Hi there 👋
+## 그 멋지고 소중하고 아름다운 팀원들을 자세히 소개 하겠습니다!
 
-<!--
+![최우수상](https://github.com/user-attachments/assets/e7b74b02-ac33-4cce-9228-c60360d8a353)
 
-**Here are some ideas to get you started:**
+왼쪽부터
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+소혜리
+김태희
+이유림
+김우연
