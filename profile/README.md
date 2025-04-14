@@ -5,7 +5,8 @@
 
 > 발표 자료 멘트중 일부, 그 멋지고 소중하고 아름다운 팀원들을 자세히 소개 하겠습니다!
 
-![최우수상](/Pasted%20image%2020250409151628.png)
+
+![패스트캠퍼스 데브캠프 2기의 파이널 프로젝트에서 최우수상을 탓다](/resources/88b123428ed93de8b8ae62ae9b769d2b59c3271c6f0d46c652047f2051dae39095fea9d9db547675113bbce93ba5b46c8dba10ea8fbc3d728d7a116b25584452.png)
 
 > 왼쪽부터   
 > 소혜리, 김태희, 이유림, 김우연
@@ -14,6 +15,6 @@
 
 이 이야기는 너무나 슬픈 이야기를 쇼츠 제작 플랫폼, 유니캣을 이용해 만든 결과물 입니다.
 
-[![코딩지옥](/thumbnail.jpg)](https://youtube.com/shorts/Jt23LSCds-U?si=brEfFR9T4hz67d0I)
+[![프로젝트로 만든 플랫폼에서 생성한 영상](/resources/f28504d5fee368b05a22e6dd5e0fb65879f8fa47792670c4fc861c815bbfb310d6ef3f335d9d7e4e68dbb9cc932542243ab292d8f9e8a618001cb17338688f96.png)](https://youtube.com/shorts/Jt23LSCds-U?si=brEfFR9T4hz67d0I)
 
 > 클릭시 유튜브로 넘어갑니다.

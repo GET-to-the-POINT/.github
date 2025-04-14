@@ -8,33 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bdd70bf30ccb098d",
-            "type": "leaf",
-            "state": {
-              "type": "video",
-              "state": {
-                "file": "coding-hell.mp4"
-              },
-              "icon": "lucide-file",
-              "title": "coding-hell"
-            }
-          },
-          {
             "id": "2f937fd883a94b30",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "profile/README.md",
-                "mode": "source",
-                "source": false
+                "aFile": "unisurmmary/무제.md",
+                "bFile": "unisurmmary/무제.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "diff",
+              "title": "Diff: 무제"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,18 +190,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2f937fd883a94b30",
+  "active": "61b40ca118bcb830",
   "lastOpenFiles": [
-    "docs/build/favicon.png",
-    "profile/README.md",
     "unisurmmary/무제.md",
     "unisurmmary",
     "coding-hell.mp4",
-    "Pasted image 20250409151628.png",
-    "thumbnail.jpg",
     "README.md",
-    "Pasted image 20250409151538.png",
+    "profile/README.md",
+    "resources/88b123428ed93de8b8ae62ae9b769d2b59c3271c6f0d46c652047f2051dae39095fea9d9db547675113bbce93ba5b46c8dba10ea8fbc3d728d7a116b25584452.png",
+    "resources/f28504d5fee368b05a22e6dd5e0fb65879f8fa47792670c4fc861c815bbfb310d6ef3f335d9d7e4e68dbb9cc932542243ab292d8f9e8a618001cb17338688f96.png",
+    "thumbnail.jpg",
+    "Pasted image 20250409151628.png",
     "resources",
+    "docs/build/favicon.png",
+    "Pasted image 20250409151538.png",
     "profile/resources/Pasted image 20250409151601.png",
     "profile/resources"
   ]

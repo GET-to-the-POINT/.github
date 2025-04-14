@@ -1,5 +1,6 @@
 {
   "useMarkdownLinks": true,
-  "attachmentFolderPath": "/",
-  "alwaysUpdateLinks": true
+  "attachmentFolderPath": "/resources",
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "absolute"
 }
